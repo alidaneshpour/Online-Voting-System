@@ -87,3 +87,54 @@ It runs directly in the browser with no installation needed.
 ```bash
 git clone https://github.com/yourusername/voting-system.git
 cd voting-system
+```
+
+2. **Open the application**
+   - Simply open `index.html` in your browser.  
+   - No additional setup required.
+
+3. **Candidate Data**
+   - The system loads candidates from `candidates_names.csv`.
+   - If not found, it will load a **sample candidate list** automatically.
+
+---
+
+## 📂 Repository Structure
+
+```
+voting-system/
+├── index.html            # Main application
+├── candidates_names.csv  # Candidate dataset
+├── background.jpg        # Login background
+├── logo.jpg              # Logo
+├── logo2.jpeg            # Voting background
+├── finalpage.PNG         # Final confirmation page
+├── readme_images/        # Screenshots + demo GIF
+└── README.md             # Project documentation
+```
+
+---
+
+## 🔒 Security Notes
+
+- This is a **demo/simulation project**, not intended for real elections.  
+- All data is handled **client-side** (no backend or encryption).  
+- For production use, integration with a **secure backend, database, and encryption** would be required.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+- Open a **Pull Request** for small changes  
+- Open an **Issue** for new features or major improvements  
+
+---
+
+## 📜 License
+
+This project is licensed under the **[MIT License](LICENSE)**.
+
+---
+
+⭐ If you find this project useful, please consider starring it on GitHub!
