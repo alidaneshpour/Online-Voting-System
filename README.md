@@ -110,7 +110,7 @@ voting-system/
 ├── logo2.jpeg            # Voting background
 ├── finalpage.PNG         # Final confirmation page
 ├── readme_images/        # Screenshots + demo GIF
-└── README.md             # Project documentation
+├── README.md             # Project documentation
 └── LICENSE               # MIT license file
 ```
 
