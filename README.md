@@ -42,7 +42,7 @@ This project simulates a full election workflow — including login, candidate b
 
 ### 🗳️ Voting Environment
 <p align="center">
-  <img src="readme_images/voting.png" alt="Voting Page" width="700">
+  <img src="readme_images/voting.png" alt="Voting Page" width="900">
 </p>
 
 ### ✅ Review & Final Submission
