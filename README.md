@@ -111,6 +111,7 @@ voting-system/
 ├── finalpage.PNG         # Final confirmation page
 ├── readme_images/        # Screenshots + demo GIF
 └── README.md             # Project documentation
+└── LICENSE
 ```
 
 ---
