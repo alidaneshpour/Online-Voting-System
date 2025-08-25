@@ -95,7 +95,7 @@ cd voting-system
 
 3. **Candidate Data**
    - The system loads candidates from `candidates_names.csv`.
-   - If not found, it will load a **candidate list** automatically.
+   - If not found, it will load a **sample candidate list** automatically.
 
 ---
 
