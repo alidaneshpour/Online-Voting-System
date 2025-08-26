@@ -51,7 +51,7 @@ This project simulates a full election workflow — including login, candidate b
 </p>
 
 <p align="center">
-  <img src="readme_images/finalpage.PNG" alt="Final Page" width="700">
+  <img src="finalpage.PNG" alt="Final Page" width="700">
 </p>
 
 ---
