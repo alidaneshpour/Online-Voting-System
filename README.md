@@ -45,11 +45,12 @@ This project simulates a full election workflow — including login, candidate b
   <img src="readme_images/voting.png" alt="Voting Page" width="900">
 </p>
 
-### ✅ Review & Final Submission
+### 🔎 Review Page & Final Submission
 <p align="center">
   <img src="readme_images/review.png" alt="Review Page" width="900">
 </p>
 
+### ✅ Final Submission Page
 <p align="center">
   <img src="finalpage.PNG" alt="Final Page" width="700">
 </p>
