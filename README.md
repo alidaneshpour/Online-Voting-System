@@ -47,7 +47,7 @@ This project simulates a full election workflow — including login, candidate b
 
 ### ✅ Review & Final Submission
 <p align="center">
-  <img src="readme_images/review.png" alt="Review Page" width="700">
+  <img src="readme_images/review.png" alt="Review Page" width="900">
 </p>
 
 <p align="center">
