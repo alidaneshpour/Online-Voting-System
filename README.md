@@ -37,17 +37,17 @@ This project simulates a full election workflow — including login, candidate b
 
 ### 🔑 Login Page
 <p align="center">
-  <img src="readme_images/login.png" alt="Login Page" width="700">
+  <img src="README_Files/login.png" alt="Login Page" width="700">
 </p>
 
 ### 🗳️ Voting Environment
 <p align="center">
-  <img src="readme_images/voting.png" alt="Voting Page" width="900">
+  <img src="README_Files/voting.png" alt="Voting Page" width="900">
 </p>
 
 ### 🔎 Review Page & Final Submission
 <p align="center">
-  <img src="readme_images/review.png" alt="Review Page" width="900">
+  <img src="README_Files/review.png" alt="Review Page" width="900">
 </p>
 
 ### ✅ Final Submission Page
@@ -62,7 +62,7 @@ This project simulates a full election workflow — including login, candidate b
 A full workflow demo (Login → Candidate Selection → Review → Final Submission):
 
 <p align="center">
-  <img src="readme_images/demo.gif" alt="Voting Demo" width="900">
+  <img src="README_Files/demo.gif" alt="Voting Demo" width="900">
 </p>
 
 ---
